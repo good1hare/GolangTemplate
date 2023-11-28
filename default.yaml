@@ -1,0 +1,13 @@
+Http:
+  Port: '8080'
+
+Mysql:
+  DriverName: 'mysql'
+  DatabaseName: 'db_name'
+  UserName: 'db_user'
+  Password: 'db_password'
+  Host: 'db_host'
+  Port: '3306'
+
+Logger:
+  Level: 'debug'
