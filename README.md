@@ -6,7 +6,7 @@
 
 # Description
 GolangTemplate is a golang clean architecture project template.
-Lis of packages:
+List of packages:
 - [Viper](https://github.com/spf13/viper)
 - [Echo](https://github.com/labstack/echo)
 - [ZeroLog](https://github.com/rs/zerolog)
